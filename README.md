@@ -891,5 +891,5 @@ plt.show()
     
 
 
-In this homework, first of all I decided to convert disease types to number 
+In this project, first of all I decided to convert disease types to number 
 for calculating scores easily. After that, I normalized the data then created the train test split. Secondly, I created classifications. In the knn classification 5 neighbours accuracy score is 72.34% it may be not best so, I created best KNN score algorithm then it is 76.60%. After that I created the other classifications and put the accuracy scores on to accuracies{}. Then I compared the accuracy score which is best. "DECISION TREE" is the best accuracy for my dataset. 
